@@ -1,0 +1,15 @@
+C:\Users\tupar\OneDrive\Desktop\Jenkins Pipeline\ConsoleAppDotNet\ConsoleAppDotNet\bin\Debug\net8.0\ConsoleAppDotNet.exe
+C:\Users\tupar\OneDrive\Desktop\Jenkins Pipeline\ConsoleAppDotNet\ConsoleAppDotNet\bin\Debug\net8.0\ConsoleAppDotNet.deps.json
+C:\Users\tupar\OneDrive\Desktop\Jenkins Pipeline\ConsoleAppDotNet\ConsoleAppDotNet\bin\Debug\net8.0\ConsoleAppDotNet.runtimeconfig.json
+C:\Users\tupar\OneDrive\Desktop\Jenkins Pipeline\ConsoleAppDotNet\ConsoleAppDotNet\bin\Debug\net8.0\ConsoleAppDotNet.dll
+C:\Users\tupar\OneDrive\Desktop\Jenkins Pipeline\ConsoleAppDotNet\ConsoleAppDotNet\bin\Debug\net8.0\ConsoleAppDotNet.pdb
+C:\Users\tupar\OneDrive\Desktop\Jenkins Pipeline\ConsoleAppDotNet\ConsoleAppDotNet\obj\Debug\net8.0\ConsoleAppDotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tupar\OneDrive\Desktop\Jenkins Pipeline\ConsoleAppDotNet\ConsoleAppDotNet\obj\Debug\net8.0\ConsoleAppDotNet.AssemblyInfoInputs.cache
+C:\Users\tupar\OneDrive\Desktop\Jenkins Pipeline\ConsoleAppDotNet\ConsoleAppDotNet\obj\Debug\net8.0\ConsoleAppDotNet.AssemblyInfo.cs
+C:\Users\tupar\OneDrive\Desktop\Jenkins Pipeline\ConsoleAppDotNet\ConsoleAppDotNet\obj\Debug\net8.0\ConsoleAppDotNet.csproj.CoreCompileInputs.cache
+C:\Users\tupar\OneDrive\Desktop\Jenkins Pipeline\ConsoleAppDotNet\ConsoleAppDotNet\obj\Debug\net8.0\ConsoleAppDotNet.sourcelink.json
+C:\Users\tupar\OneDrive\Desktop\Jenkins Pipeline\ConsoleAppDotNet\ConsoleAppDotNet\obj\Debug\net8.0\ConsoleAppDotNet.dll
+C:\Users\tupar\OneDrive\Desktop\Jenkins Pipeline\ConsoleAppDotNet\ConsoleAppDotNet\obj\Debug\net8.0\refint\ConsoleAppDotNet.dll
+C:\Users\tupar\OneDrive\Desktop\Jenkins Pipeline\ConsoleAppDotNet\ConsoleAppDotNet\obj\Debug\net8.0\ConsoleAppDotNet.pdb
+C:\Users\tupar\OneDrive\Desktop\Jenkins Pipeline\ConsoleAppDotNet\ConsoleAppDotNet\obj\Debug\net8.0\ConsoleAppDotNet.genruntimeconfig.cache
+C:\Users\tupar\OneDrive\Desktop\Jenkins Pipeline\ConsoleAppDotNet\ConsoleAppDotNet\obj\Debug\net8.0\ref\ConsoleAppDotNet.dll
